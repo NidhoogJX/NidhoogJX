@@ -1,4 +1,3 @@
-emmm,i'm NidhoogJX,hello  
 
 <!---
 NidhoogJX/NidhoogJX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
